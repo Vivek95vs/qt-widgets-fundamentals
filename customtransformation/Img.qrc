@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>pics/logo_pmt.png</file>
+        <file>pics/icons8-circle-100.png</file>
+        <file>pics/icons8-line-50.png</file>
+        <file>pics/icons8-line-100.png</file>
+        <file>pics/icons8-line-25.png</file>
+    </qresource>
+</RCC>
