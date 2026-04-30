@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Filename">
+        <file>Resread.pro</file>
+    </qresource>
+</RCC>
