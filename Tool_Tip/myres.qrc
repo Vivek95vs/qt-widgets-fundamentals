@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>1-SG(32).png</file>
+        <file>Axial-2.png</file>
+        <file>crop.png</file>
+    </qresource>
+</RCC>
